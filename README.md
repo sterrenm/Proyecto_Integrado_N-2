@@ -5,5 +5,5 @@ Este proyecto analiza la educación argentina y contrasta con la cantidad de fal
 # Utilizando Write for me en ChatGPT
 Puedes ver el Informe escrito en: [https://chatgpt.com/share/6734d233-26e8-8002-a2e6-f07ba5efea66]
 # Presentación del Informe
-Puede ver la presentación en: [Presentaciones sobre la Educación en Argentina](https://gamma.app/docs/Presentacion-sobre-la-Educacion-en-Argentina-zcin3iwbrqq86pw)]
+Puede ver la Presentación sobre la Educación en Argentina en: [https://gamma.app/docs/Presentacion-sobre-la-Educacion-en-Argentina-zcin3iwbrqq86pw]
 [https://gamma.app/docs/Presentacion-sobre-la-Educacion-en-Argentina-zcin3iwbrqq86pw]
